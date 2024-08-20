@@ -66,18 +66,18 @@ ts-easy/
 
 ### Scripts 📝
 
-**pnpm dev:** Run your project with autoreload.
-**pnpm start:** Run your build.
-**pnpm lint:** Lint your TypeScript code using ESLint.
-**pnpm lint:fix:** Lint and fix your TypeScript code using ESLint.
-**pnpm format:** Format your code with Prettier.
-**pnpm build:** Bundle your project using tsup.
+* **pnpm dev:** Run your project with autoreload.
+* **pnpm start:** Run your build.
+* **pnpm lint:** Lint your TypeScript code using ESLint.
+* **pnpm lint:fix:** Lint and fix your TypeScript code using ESLint.
+* **pnpm format:** Format your code with Prettier.
+* **pnpm build:** Bundle your project using tsup.
 
 ### Why ts-easy? 🤔
 
-**Minimal:** Just the essentials, no bloat.
-**Flexible:** Use it for any TypeScript-based project.
-**Modern:** Includes the latest and greatest tools like tsup and Zod.
+* **Minimal:** Just the essentials, no bloat.
+* **Flexible:** Use it for any TypeScript-based project.
+* **Modern:** Includes the latest and greatest tools like tsup and Zod.
 
 ### License 📄
 
