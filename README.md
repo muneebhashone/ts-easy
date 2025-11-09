@@ -105,4 +105,4 @@ The application will fail at startup with clear error messages if required varia
 
 ## License 📄
 
-This project is licensed under the ISC License.
+This project is licensed under the MIT License.
